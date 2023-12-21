@@ -1,0 +1,16 @@
+pandas
+numpy
+tiktoken
+numpy
+langchain
+pinecone-client
+openai==0.28.0
+python-dotenv
+streamlit
+pdfminer.six
+faiss-cpu
+#PyPDF2
+#pymupdf
+#time
+pypdf
+PyMuPDF
