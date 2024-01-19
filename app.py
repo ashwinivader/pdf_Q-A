@@ -13,7 +13,7 @@ import openai
 # Streamlit App
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
  # Generate embeddings of snippets
 model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
